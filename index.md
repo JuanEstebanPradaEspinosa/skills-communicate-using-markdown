@@ -2,5 +2,5 @@
 ## this one is smaller
 ### its keeep going
 #### now it is small
-
-I manage to create my first markdown file with headers
+##### This is an image of Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
